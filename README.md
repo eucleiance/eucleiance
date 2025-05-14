@@ -9,14 +9,14 @@
 
 ##### Languages I use
 
-![Nix](https://img.shields.io/badge/-Nix-000000?style=flat&logo=nixos)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Pinescript](https://img.shields.io/badge/-Pinescript-000000?style=flat&logo=pinescript)
+![Nix](https://img.shields.io/badge/-Nix-222222?style=flat&logo=nixos)
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
+![Pinescript](https://img.shields.io/badge/-Pinescript-222222?style=flat&logo=pinescript)
 
 
 ##### Some of the technologies I have worked with
