@@ -1,4 +1,4 @@
-### Hi there! I'm [Roshan :D](https://github.com/eucleiance/eucleiance/)
+### Hiya Stranger! I'm Roshan 🧣
 
 - I’m currently developing my [Portfolio Site](https://eucleiance.github.io)
 - I'm also a 2D/3D Artist. Here's my [Showreel](https://github.com/eucleiance/eucleiance.github.io/raw/refs/heads/master/docs/videos/showreel.mp4?download=)
