@@ -1,8 +1,9 @@
-### Hi there 👋 I'm [Roshan!](https://github.com/eucleiance/eucleiance/)
+### Hi there! I'm [Roshan :D](https://github.com/eucleiance/eucleiance/)
 
-- I’m currently developing my [Portfolio site](https://eucleiance.github.io)
+- I’m currently developing my [Portfolio Site](https://eucleiance.github.io)
 - I'm also a 2D/3D Artist. Here's my [Showreel](https://github.com/eucleiance/eucleiance.github.io/raw/refs/heads/master/docs/videos/showreel.mp4?download=)
-- Here are my [dotfiles](https://github.com/eucleiance/dotfiles/)
+- Here are my [Dotfiles](https://github.com/eucleiance/dotfiles/)
+- Here's my [TradingView Profile](https://www.tradingview.com/u/coldbrewrosh/)
 
 ---
 
