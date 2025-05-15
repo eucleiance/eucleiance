@@ -7,7 +7,7 @@
 
 ---
 
-##### Languages I use
+##### Languages I use 🧬
 
 ![Nix](https://img.shields.io/badge/-Nix-222222?style=flat&logo=nixos)
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
@@ -19,7 +19,7 @@
 ![Pinescript](https://img.shields.io/badge/-Pinescript-222222?style=flat&logo=pinescript)
 
 
-##### Some of the technologies I have worked with
+##### Some of the Technologies I have worked with ⚙️
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -34,7 +34,7 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-222222?style=flat-square&logo=numpy)
 
 
-#### Some of the Softwares I've learned
+##### Some of the Softwares I've learned 🛠️
 
 ![Figma](https://img.shields.io/badge/-Figma-222222?style=flat-square&logo=figma)
 ![Autodesk Maya](https://img.shields.io/badge/-AutoDesk_Maya-222222?style=flat-square&logo=autodeskmaya)
